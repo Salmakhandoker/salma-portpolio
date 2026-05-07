@@ -5,7 +5,8 @@ const Navbar = () => {
     <header className="flex items-center justify-between px-8 py-6 border-b border-white/5">
       <div className="flex items-center gap-2">
         <div className="w-8 h-8 bg-brand rounded-full flex items-center justify-center">
-          <span className="text-black font-bold text-sm">S</span>
+
+          <img className='W -full h-full rounded-full' src="pic.jpg" alt="logo" />
         </div>
         <span className="font-bold text-xl tracking-tighter uppercase">SALMA</span>
       </div>
