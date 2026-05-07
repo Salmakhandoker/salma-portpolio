@@ -25,6 +25,12 @@ const About = () => {
           <div className="flex items-center gap-2 text-sm text-gray-300 italic font-medium">
             <span className="text-brand">✓</span> SEO
           </div>
+          <div className="flex items-center gap-2 text-sm text-gray-300 italic font-medium">
+            <span className="text-brand">✓</span> Contact Now.
+
+            <h1>Email address:</h1>
+            <p className='font-bold text-white italic'>salmakhandoker001@gmail.com</p>
+          </div>
         </div>
         <button className="bg-brand/10 border border-brand/20 text-brand px-6 py-2 rounded-full text-xs font-bold flex items-center gap-2 hover:bg-brand/20 transition">
           View My Journey
