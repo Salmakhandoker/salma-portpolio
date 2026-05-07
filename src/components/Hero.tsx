@@ -44,7 +44,7 @@ const Hero = () => {
         <img
           alt="Salma khandoker"
           className="absolute inset-0 w-full h-full object-cover rounded-full z-10"
-          src="https://lh3.googleusercontent.com/aida/ADBb0ugqDdD1RdPtCj4jg8isO1jXOUOZeZMv-m3ppOUppBDL2SeGq6uL8cwKDTeoIv5KfyXeFO0F5xXzNFwWkWg-8Lwu388WfXNF9OH-LWSqTnxWeq4d74oyZY-Y9ZZexiWqD1uLdnRzKvMsYp3NWBxkMolK-2wtAONc1cE8x3wb1ZNIaqlgNk3faNy8xl9sANhp19Tpm9sm6umayHxVHpYEaxaKwcbOJ65UFmgwJMaXIIeXFLQzMHC5cGCbaFyysF6ab4Aks2SAdSbRWA"
+          src=""
         />
       </div>
       <Stats />
